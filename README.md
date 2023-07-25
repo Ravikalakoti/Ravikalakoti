@@ -13,7 +13,7 @@
 - ⚡ Fun fact **I look like good person**
 
 <h2>🎓 Education:</h2>
-- <b>Bachelor of Computer Science</b>: Uttarakhand Technical University <b>(2019)</b><br>
+- <b>Bachelor of Technology (B-Tech)</b>: Uttarakhand Technical University <b>(2019)</b><br>
 - <b>Certification in Python/Django Development</b>: Ducat Noida(2020)
 <h2>👨‍💻 Software Development Projects:</h2>
 
