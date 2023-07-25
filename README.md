@@ -53,3 +53,13 @@
 [linkedin]: https://www.linkedin.com/in/ravi-singh-kalakoti/
 [facebook]: https://www.facebook.com/rkalakoti2?mibextid=ZbWKwL
 <br>
+<h2>Thank You for Visiting!</h2>
+<p>
+  It has been a pleasure sharing my projects and journey with you. I'm truly passionate about programming and data analysis, and I'm always excited to take on new challenges and projects.
+</p>
+<p>
+  If you have any collaboration opportunities, project ideas, or just want to connect, feel free to reach out to me. I'm looking forward to hearing from you!
+</p>
+<p>
+  Let's create something amazing together!
+</p>
