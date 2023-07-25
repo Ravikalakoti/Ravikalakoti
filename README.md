@@ -20,6 +20,8 @@
 - [Contrax](https://contrax.com.au)
 - [United Global Security](https://sp.opskube.com)
 - [Petrimedca](www.petrimedca.com)
+- [Bcrumbly]
+- [Vinegraph]
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -28,8 +30,6 @@
 [<img align="left" alt="RaviKalakoti | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="RaviKalakoti | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.sv" />][instagram]
 
-[twitter]: 
-[youtube]: 
 [instagram]: https://instagram.com/ravi_kalakoti?igshid=ZGUzMzM3NWJiOQ==
 [linkedin]: https://www.linkedin.com/in/ravi-singh-kalakoti/
 
