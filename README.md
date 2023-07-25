@@ -5,7 +5,8 @@
 - <b>Django Web applications</b>
   - [Job Portal Web site](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>ChatBot using Chatterbot library</b>
-  - [Real Time chat Application](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Real Time chat Application](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Chat Application](https://github.com/Ravikalakoti/Real-Time-Chat-App)
 - <b>Mini Blog Web application</b>
   - [Blog](https://github.com/Ravikalakoti/Mini-Blog)
 - <b>Data Analytics Project</b>
