@@ -4,18 +4,15 @@
 
 - <b>Django Web applications</b>
   - [Job Portal Web site](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>ChatBot using Chhaterbot library</b>
+- <b>ChatBot using Chatterbot library</b>
   - [Real Time chat Application](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>User Login System (Rest Apis)</b>
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Mini Blog Web application</b>
+  - [Blog](https://github.com/Ravikalakoti/Mini-Blog)
+- <b>Data Analytics Project</b>
+  - [Hotes Data Cleaning and visualization](https://github.com/Ravikalakoti/Sales-Data-Analysis-/tree/main/Python_Diwali_Sales_Analysis-main)
+- <b>Python GUI Application</b>
+  - [Student Registration System](https://github.com/Ravikalakoti/student-reg.-system)
+  - [School Management System (Using Tkinter](https://github.com/Ravikalakoti/Tkinter-School.mng.sys.)
 
 <h2>📺 Popular YouTube Videos</h2>
 
