@@ -1,5 +1,5 @@
 <h1>Hi, I'm Ravi! <br/><a href="https://github.com/Ravikalakot">Programmer</a>, <a href="https://www.linkedin.com/in/ravi-singh-kalakoti">Python/Django Developer</a></h1>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravikalakoti&label=Profile%20views&color=0e75b6&style=flat" alt="ravikalakoti" /> </p>
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Django Web applications</b>
