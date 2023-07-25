@@ -2,7 +2,7 @@
 <h1>Hi, I'm Ravi! <br/><a href="https://github.com/Ravikalakot">Programmer</a>, <a href="https://www.linkedin.com/in/ravi-singh-kalakoti">Python/Django Developer</a></h1>
 - 🔭 I’m currently working on a live project Bcrumbly (Developing Rest APIs) at Technoarch Softwares PVT LTD.
 
-- 🌱 I’m currently learning **Data Analysis**
+- 🌱 I’m currently learning **Data Analysis Libraries (Numpy,Pandas,matplotlib, seaborn)**
 
 - 👨‍💻 All of my projects are available at [(https://github.com/Ravikalakoti)
 
