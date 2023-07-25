@@ -1,5 +1,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravikalakoti&label=Profile%20views&color=0e75b6&style=flat" alt="ravikalakoti" /> </p>
 <h1>Hi, I'm Ravi! <br/><a href="https://github.com/Ravikalakot">Programmer</a>, <a href="https://www.linkedin.com/in/ravi-singh-kalakoti">Python/Django Developer</a></h1>
+- 🔭 I’m currently working on a live project Bcrumbly (Developing Rest APIs) at Technoarch Softwares PVT LTD.
+
+- 🌱 I’m currently learning **Data Analysis**
+
+- 👨‍💻 All of my projects are available at [(https://github.com/Ravikalakoti)
+
+- 💬 Ask me about **Python Django and RestAPIs**
+
+- 📫 How to reach me **ravikalakoti16@gmail.com** or 7060474650
+
+- ⚡ Fun fact **I look like good person**
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Django Web applications</b>
@@ -34,13 +45,4 @@
 
 [instagram]: https://instagram.com/ravi_kalakoti?igshid=ZGUzMzM3NWJiOQ==
 [linkedin]: https://www.linkedin.com/in/ravi-singh-kalakoti/
-<br>
-</h3>Here are some ideas to get you started:</h3><br>
-- 🔭 I’m currently working on a Bcrumbly project in my current organization.
-<br>
-- 🌱 I’m currently learning Data Analytics libraries and the data visualization tool Power BI
-<br>
-- 🤔 I’m looking for a new role Data Analyst.
-<br>
-- 📫 How to reach me: ravikalakoti16@gmail.com (7060474650)
 <br>
