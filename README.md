@@ -34,7 +34,7 @@
 
 - [Contrax](https://contrax.com.au)
 - [United Global Security](https://sp.opskube.com)
-- [Petrimedca](www.petrimedca.com)
+- [Petrimedca](https://petrimedca.com/)
 - [Bcrumbly](http://52.200.16.123/docs/)
 - [Dayplanner](https://www.technoarchsoftwares.com/)
 - [Vinegraph]
