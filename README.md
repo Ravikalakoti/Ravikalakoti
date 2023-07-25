@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [(https://github.com/Ravikalakoti)
 
-- 💬 Ask me about **Python Django and RestAPIs**
+- 💬 Ask me about **Python/Django and RestAPIs**
 
 - 📫 How to reach me **ravikalakoti16@gmail.com** or 7060474650
 
