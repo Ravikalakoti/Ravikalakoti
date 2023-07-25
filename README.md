@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **ravikalakoti16@gmail.com** or 7060474650
 
-- ⚡ Fun fact **I look like good person**
+- ⚡ Fun fact **People say I have a friendly and approachable demeanor! 😊**
 
 <h2>🎓 Education:</h2>
 - <b>Bachelor of Technology (B-Tech)</b>: Uttarakhand Technical University <b>(2019)</b><br>
