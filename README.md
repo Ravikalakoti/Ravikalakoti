@@ -32,11 +32,14 @@
 [instagram]: https://instagram.com/ravi_kalakoti?igshid=ZGUzMzM3NWJiOQ==
 [linkedin]: https://www.linkedin.com/in/ravi-singh-kalakoti/
 <br>
-<br>
-<h3></h3>Here are some ideas to get you started:</h3>
+</h3>Here are some ideas to get you started:</h3><br>
 - 🔭 I’m currently working on a Bcrumbly project in my current organization.
+<br>
 - 🌱 I’m currently learning Data Analytics libraries and the data visualization tool Power BI
+<br>
 - 🤔 I’m looking for a new role Data Analyst.
+<br>
 - 📫 How to reach me: ravikalakoti16@gmail.com (7060474650)
+<br>
 - ⚡ Fun fact: ...
 -->
