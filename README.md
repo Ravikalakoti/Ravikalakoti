@@ -12,6 +12,18 @@
 
 - ⚡ Fun fact **People say I have a friendly and approachable demeanor! 😊**
 
+<h2><i class="fas fa-briefcase"></i> Work Experience</h2>
+<ul>
+    <li>
+        <strong>Python Django Developer</strong><br>
+        <em>Technoarch Softwares PVT LTD</em><br>
+        <em>December 2020 - Present</em><br>
+        - Currently working on the live project <strong>Bcrumbly</strong> (Developing Rest APIs).<br>
+        - Collaborating with a team of developers to build robust and scalable web applications using Django.<br>
+        - Conducting data analysis and visualization tasks using Pandas, Matplotlib, and Seaborn.
+    </li>
+</ul>
+
 <h2>🎓 Education:</h2>
 - <b>Bachelor of Technology (B-Tech)</b>: Uttarakhand Technical University <b>(2019)</b><br>
 - <b>Certification in Python/Django Development</b>: Ducat Noida(2020)
