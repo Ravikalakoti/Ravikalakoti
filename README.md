@@ -48,10 +48,12 @@
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"/>][facebook]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
 
 [instagram]: https://instagram.com/ravi_kalakoti?igshid=ZGUzMzM3NWJiOQ==
 [linkedin]: https://www.linkedin.com/in/ravi-singh-kalakoti/
 [facebook]: https://www.facebook.com/rkalakoti2?mibextid=ZbWKwL
+[whatsapp]: https://wa.me/919568463996
 <br>
 <h2>Thank You for Visiting!</h2>
 <p>
