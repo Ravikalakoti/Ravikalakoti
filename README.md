@@ -20,6 +20,7 @@
 - <b>Django Web applications</b>
   - [Job Portal Web site](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>ChatBot using Chatterbot library</b>
+  -[WebSocket-Chat-Application](https://github.com/Ravikalakoti/WebSocket-Chat-Application)
   - [Chat Bot](https://github.com/Ravikalakoti/ChatBot-App)
   - [Chat Application](https://github.com/Ravikalakoti/Real-Time-Chat-App)
 - <b>Mini Blog Web application</b>
