@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Data Analysis Libraries (Numpy,Pandas,matplotlib, seaborn)**
 
-- 👨‍💻 All of my projects are available at https://github.com/Ravikalakoti
+- 👨‍💻 All of my projects are available at https://github.com/Ravikalakoti?tab=repositories
 
 - 💬 Ask me about **Python/Django and RestAPIs**
 
