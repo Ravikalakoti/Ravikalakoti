@@ -25,8 +25,8 @@
 </ul>
 
 <h2>🎓 Education:</h2>
-- <b>Bachelor of Technology (B-Tech)</b>: Uttarakhand Technical University <b>(2019)</b><br>
-- <b>Certification in Python/Django Development</b>: Ducat Noida(2020)
+    - <b>Bachelor of Technology (B-Tech)</b>: Uttarakhand Technical University <b>(2019)</b><br>
+    - <b>Certification in Python/Django Development</b>: Ducat Noida(2020)
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Django Web applications</b>
