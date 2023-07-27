@@ -79,3 +79,4 @@
 <p>
   Let's create something amazing together!
 </p>
+<p>If you want to contact me, please fill out this <a href="https://docs.google.com/forms/d/e/1FAIpQLSeYNmqX6pcbuniEbfHC1PJbniCNbyOrf0wP_n31ABekvSKTug/viewform?usp=sf_link" target="_blank">contact form</a>.</p>
