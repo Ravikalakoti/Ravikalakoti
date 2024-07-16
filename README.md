@@ -1,7 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravikalakoti&label=Profile%20views&color=0e75b6&style=flat" alt="ravikalakoti" /> </p>
 <h1>Hi, I'm Ravi! <br/><a href="https://github.com/Ravikalakot"></a> <a href="https://www.linkedin.com/in/ravi-singh-kalakoti">Aspiring Data Analyst and Python Django Developer</a></h1>
-- 🔭 I’m currently working on a live project <b>Bcrumbly</b> (Developing Rest APIs) at Technoarch Softwares PVT LTD. and personal project Veridoc HR https://mystage.veridochr.com/
-Freelance
+- 🔭 I’m currently working on a live project <b>Bcrumbly</b> (Developing Rest APIs) at Technoarch Softwares PVT LTD. and Freelance project Veridoc HR https://mystage.veridochr.com/
 - 🌱 I’m currently learning **Data Analysis Libraries (Numpy,Pandas,matplotlib, seaborn)**
 
 - 👨‍💻 All of my projects are available at https://github.com/Ravikalakoti?tab=repositories
