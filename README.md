@@ -39,19 +39,21 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Django Web applications</b>
-  - [Job Portal Web site](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Job Portal Web site](https://github.com/Ravikalakoti/Job-Portal#job-portal-is-to-develop-an-online-portal-where-recruiters-can-post-job-requirements-they-can-search-for-candidates-candidates-can-search-for-job-openings-and-apply)
 - <b>ChatBot using Chatterbot library</b>
   - [Chat Bot](https://github.com/Ravikalakoti/ChatBot-App)
-  - [Chat Application](https://github.com/Ravikalakoti/Real-Time-Chat-App)
+  - [Chat Application](https://github.com/Ravikalakoti/Real-Time-Chat-App#real-time-chat-app-ravi-kalakoti)
 - <b>Web Socket Implimentation</b>
   - [WebSocket Chat Application](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Mini Blog Web application</b>
-  - [Blog](https://github.com/Ravikalakoti/Mini-Blog)
+- <b>INSTACOPY Web application</b>
+  - [INSTACOPY](https://github.com/Ravikalakoti/CRM-App#project-screenshots)
 - <b>Data Analytics Project</b>
   - [Hotes Data Cleaning and visualization](https://github.com/Ravikalakoti/Sales-Data-Analysis-/tree/main/Python_Diwali_Sales_Analysis-main)
 - <b>Python GUI Application</b>
   - [Student Registration System](https://github.com/Ravikalakoti/student-reg.-system)
   - [School Management System (Using Tkinter](https://github.com/Ravikalakoti/Tkinter-School.mng.sys.)
+- <b>College ERP WEB Application</b>
+  - [Colleg ERP System](https://github.com/Ravikalakoti/College-ERP-Site#teacher-page)
 
 <h2>📺 Projects at [Technoarch Softwares]</h2>
 
