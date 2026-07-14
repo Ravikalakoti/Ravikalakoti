@@ -5,7 +5,7 @@
 <h1>Hi 👋, I'm Ravi Singh Kalakoti</h1>
 
 <h3>
-Aspiring AI Engineer | Python Django Developer | Data Analyst | GenAI & LLM Enthusiast
+AI Engineer | Python & Django Developer (5+ Years) | Data Analyst | Generative AI & LLMs
 </h3>
 
 ---
