@@ -4,9 +4,9 @@
 
 # Hi, I'm Ravi Singh Kalakoti 👋
 
-### AI Engineer | Full-Stack Developer (Python, Django & React) | Generative AI & LLMs
+### AI Engineer | Full-Stack Developer (Python, Django & React) | Generative AI, LLMs & Agentic Systems
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Building+AI+Agents+%26+Autonomous+Systems;Django+%2B+React+Full+Stack+Developer;RAG+Pipelines+%7C+LLMs+%7C+Vector+Databases;Turning+Ideas+Into+Intelligent+Products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Building+AI+Agents+%26+Autonomous+Systems;LangChain+%2B+LangGraph+Multi-Agent+Workflows;Django+%2B+React+Full+Stack+Developer;RAG+Pipelines+%7C+LLMs+%7C+Vector+Databases;Turning+Ideas+Into+Intelligent+Products" alt="Typing SVG" />
 
 <br/>
 
@@ -31,7 +31,11 @@ class RaviSinghKalakoti:
         self.role = "AI Engineer & Full-Stack Developer"
         self.experience = "5+ years"
         self.current_focus = "AI Agents & Autonomous Workflow Systems"
-        self.stack = ["Python", "Django", "React", "LLMs", "RAG", "Vector DBs"]
+        self.stack = [
+            "Python", "Django", "React",
+            "LLMs", "LangChain", "LangGraph",
+            "RAG", "Vector DBs",
+        ]
         self.location = "India"
 
     def say_hi(self):
@@ -39,11 +43,12 @@ class RaviSinghKalakoti:
 ```
 
 - 🔭 Currently building **AI Agents & Autonomous Workflow Systems**
-- 🤖 Exploring **LLMs, Vector Databases, Embeddings, Agentic RAG pipelines**
+- 🤖 Working with **LLMs, LangChain, LangGraph, Vector Databases, Embeddings & Agentic RAG pipelines**
+- 🕸️ Designing **stateful multi-agent workflows with LangGraph** and **tool-calling agents with LangChain**
 - 🧩 Building production-ready **Django REST APIs + React frontends + AI integrations**
 - 📊 Passionate about **Data Analytics, AI Automation & Scalable Backend Systems**
 - 🌱 Currently leveling up on **multi-agent orchestration & LLM tool-calling**
-- 💬 Ask me about **Python, Django, React, REST APIs, AI Agents, Ollama, ChromaDB**
+- 💬 Ask me about **Python, Django, React, REST APIs, AI Agents, LangChain, LangGraph, Ollama, ChromaDB**
 - 📫 Reach me at **ravikalakoti16@gmail.com**
 - ⚡ Fun fact: I love turning complex AI systems into simple, usable apps 😄
 
@@ -77,16 +82,18 @@ class RaviSinghKalakoti:
 ![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-0E75B6?style=flat-square&logo=langchain&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 | Area | Details |
 |---|---|
-| 🧠 **LLMs & Agents** | Ollama (LLaMA3, Mistral), OpenAI APIs, Agentic Workflows |
+| 🧠 **LLMs & Agents** | Ollama (LLaMA3, Mistral), OpenAI APIs, LangChain Agents, Tool/Function Calling |
+| 🕸️ **Agent Orchestration** | LangGraph (stateful graphs, multi-agent workflows), LangChain chains & tools |
 | 🔍 **Embeddings** | Sentence Transformers, Ollama Embeddings |
 | 📦 **Vector DB** | ChromaDB |
-| 🧩 **Architecture** | RAG (Retrieval Augmented Generation), Multi-Agent Systems |
+| 🧩 **Architecture** | RAG (Retrieval Augmented Generation), Agentic RAG, Multi-Agent Systems |
 | ⚙️ **Backend AI** | Django + DRF + Async pipelines |
 | 📄 **Document AI** | PDF/DOCX parsing + semantic chunking |
 
@@ -101,7 +108,7 @@ class RaviSinghKalakoti:
 <b>🏢 Python Django Developer — Technoarch Softwares PVT LTD</b><br/>
 • Working on production REST APIs (<b>Bcrumbly, FundCogito</b>)<br/>
 • Building scalable backend systems using Django + DRF<br/>
-• Integrating AI features and agent-based workflows into backend systems<br/>
+• Integrating AI features and agent-based workflows (<b>LangChain, LangGraph</b>) into backend systems<br/>
 • Data analysis using Pandas & visualization tools
 </td>
 </tr>
@@ -129,9 +136,7 @@ class RaviSinghKalakoti:
 - 🏅 Python & Django Development Certification — Ducat, Noida
 - 🏅 5+ years of professional experience delivering production backend systems
 - 🏅 Built and shipped multiple client-facing REST API platforms (Bcrumbly, FundCogito, Veridoc HR)
-- 🏅 Self-driven AI/ML upskilling — RAG systems, embeddings, and agentic workflows
-
-> Add your certificate badges/links here (Coursera, Udemy, AWS, etc.) — share them and I'll format them in.
+- 🏅 Self-driven AI/ML upskilling — RAG systems, embeddings, LangChain & LangGraph agentic workflows
 
 ---
 
@@ -140,8 +145,8 @@ class RaviSinghKalakoti:
 ### 🤖 AI Projects
 | Project | Description |
 |---|---|
-| 🧠 **AI Agents Platform** *(current)* | Autonomous task & workflow execution using multi-agent orchestration |
-| 📄 **AI Document Chat App** | RAG-based chat over documents using ChromaDB + Ollama |
+| 🧠 **AI Agents Platform** *(current)* | Autonomous task & workflow execution using multi-agent orchestration with LangGraph + LangChain |
+| 📄 **AI Document Chat App** | RAG-based chat over documents using ChromaDB + Ollama + LangChain |
 | 🔍 **Semantic Search Engine** | Search built on sentence embeddings |
 | 📊 **AI Resume Analyzer** | Automated resume parsing & scoring *(in progress)* |
 
@@ -196,7 +201,7 @@ class RaviSinghKalakoti:
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ravikalakoti)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravikalakoti16@gmail.com)
 
-I specialize in building **AI Agents & Autonomous Systems**, **Django REST APIs + React Frontends**, **RAG-based Applications**, and **Scalable Production Systems**.
+I specialize in building **AI Agents & Autonomous Systems (LangChain + LangGraph)**, **Django REST APIs + React Frontends**, **RAG-based Applications**, and **Scalable Production Systems**.
 
 ### 🚀 *"Turning ideas into intelligent systems using AI + Python + Django + React"*
 
